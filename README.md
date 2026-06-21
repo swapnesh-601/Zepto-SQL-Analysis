@@ -1,8 +1,7 @@
 # 🟣 Zepto SQL Analysis
 
-<p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Zepto_Logo.svg/1200px-Zepto_Logo.svg.png" alt="Zepto Logo](https://startuptalky.com/zepto-success-story/)" width="500">
-</p>
+<img width="860" height="573" alt="image" src="https://github.com/user-attachments/assets/bc602558-f585-40e2-a079-319cb1b8207a" />
+
 
 ## 📌 Project Overview
 
